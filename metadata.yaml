@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '24979'
     url: http://www.gutenberg.org/2009/agents/24979
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40886#The-Works-of-John-Knox-Volume-2--of-6-
 gutenberg_issued: '2012-09-28'
 gutenberg_type: Text
 identifiers:
