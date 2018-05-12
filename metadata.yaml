@@ -1,0 +1,35 @@
+_repo: The-Works-of-John-Knox-Volume-2--of-6-_40886
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knox, John
+    deathdate: 1572
+    gutenberg_agent_id: '3121'
+    url: http://www.gutenberg.org/2009/agents/3121
+    wikipedia: http://en.wikipedia.org/wiki/John_Knox
+  editor:
+    agent_name: Laing, David
+    birthdate: 1793
+    deathdate: 1878
+    gutenberg_agent_id: '24979'
+    url: http://www.gutenberg.org/2009/agents/24979
+description: ''
+gutenberg_issued: '2012-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of Scotland'
+- !lcc 'BX'
+- !lcsh 'Knox, John, approximately 1514-1572'
+- !lcsh 'Theology -- Early works to 1800'
+- !lcsh 'Reformation -- Scotland'
+title: The Works of John Knox, Volume 2 (of 6)
+url: http://www.gutenberg.org/ebooks/40886
